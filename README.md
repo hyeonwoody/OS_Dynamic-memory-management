@@ -1,5 +1,5 @@
 # OS_Dynamic-memory-management
-Soongsil University. Operating System 2020-2 Assignment 5 : Dynamic Memory Management
+Soongsil University. Operating System 2020-2 Assignment #5 : Dynamic Memory Management
 
  implementation of _alloc_ and _dealloc_ functions.
  
