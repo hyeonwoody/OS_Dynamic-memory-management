@@ -7,10 +7,10 @@ malloc(3) 및 free(3)와 같은 함수를 대체하여 메모리를 할당하고
 
 Mmap(2)과 munmap(2)등의 시스템 호출 함수를 사용하여 메모리 페이지를 가져오고  
 
-메모리 요청 시 메모리 페이지들의 chunk를 동적으로 할당합니다.  
+메모리 요청 시 메모리 페이지들의 chunk를 동적으로 할당합니다.    
  
  
-   
+  
 Soongsil University. Operating System 2020-2 Assignment #5 : Dynamic Memory Management  
   
 implementation of _alloc_ and _dealloc_ functions.  
