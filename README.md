@@ -1,5 +1,5 @@
 # OS_Dynamic-memory-management  
-숭실대학교 운영체제 2020 가을학기 - 과제5 : 동적 메모리 관리  
+## 숭실대학교 운영체제 2020 가을학기 - 과제5 : 동적 메모리 관리  
   
 본 과제의 목표는 프로그램에서 메모리를 동적으로 할당하는 사용자 지정 메모리 관리자를 구현하는 것입니다.   
 
@@ -9,9 +9,9 @@ Mmap(2)과 munmap(2)등의 시스템 호출 함수를 사용하여 메모리 페
 
 메모리 요청 시 메모리 페이지들의 chunk를 동적으로 할당합니다.    
  
- 
+<br>
   
-Soongsil University. Operating System 2020-2 Assignment #5 : Dynamic Memory Management  
+## Soongsil University. Operating System 2020-2 Assignment #5 : Dynamic Memory Management  
   
 implementation of _alloc_ and _dealloc_ functions.  
   
